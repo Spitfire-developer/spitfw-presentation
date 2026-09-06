@@ -181,5 +181,7 @@ The ultimate question remains: Is it possible to build a framework capable of tr
 From Instruments to Cockpit.<br>
 From Cockpit to Framework.
 
+https://github.com/FrSkyRC/ETHOS-Feedback-Community/discussions/6254
+
 
 And perhaps, from one airplane to many.
