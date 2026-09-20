@@ -1,3 +1,5 @@
+📢 **WE NEED YOUR FEEDBACK!** With the new ETHOS 1.6.2, the RAM issues are almost fixed and this project is close to being flight-ready. Please take 5 seconds to tell me if it interests you. Click here to join the official poll: 👉 [COMMUNITY POLL & FEEDBACK](https://github.com/Spitfire-developer/spitfw-presentation/discussions/1)
+
 # <p align="center"> **SPITFW**</p>
 ### <p align="center"> **From Instruments to Cockpit.** </p>
 ### <p align="center"> **From Cockpit to Framework.** </p>
