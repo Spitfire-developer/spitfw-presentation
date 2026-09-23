@@ -186,3 +186,7 @@ From Cockpit to Framework.
 And perhaps, from one airplane to many.
 
 https://github.com/FrSkyRC/ETHOS-Feedback-Community/discussions/6254
+
+## License
+This project (compiled release) is distributed under CC BY-NC-ND 4.0.
+See the LICENSE file for details.
