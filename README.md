@@ -1,7 +1,7 @@
 📢 **WE NEED YOUR FEEDBACK!** With the new ETHOS 2.0.0 and FW 26.1.2 , the RAM issues are almost fixed and this project is close to being flight-ready. Please take 5 seconds to tell me if it interests you. Click here to join the official poll: 👉 [COMMUNITY POLL & FEEDBACK](https://github.com/Spitfire-developer/spitfw-presentation/discussions/1)
 
 # <p align="center"> **SPITFW**</p>
-▶️ Try SpitFW now in your browser](https://ethos-simulator.frsky-rc.com/26.1.2/X20RS_EU?backup=https:%2F%2Fgithub.com%2FSpitfire-developer%2Fspitfw-presentation%2Freleases%2Fdownload%2Fv0.1-preview%2FX20RS.zip&reset=all&language=en)
+ [▶️ Try SpitFW now in your browser](https://ethos-simulator.frsky-rc.com/26.1.2/X20RS_EU?backup=https:%2F%2Fgithub.com%2FSpitfire-developer%2Fspitfw-presentation%2Freleases%2Fdownload%2Fv0.1-preview%2FX20RS.zip&reset=all&language=en)
 
 ### <p align="center"> **From Instruments to Cockpit.** </p>
 ### <p align="center"> **From Cockpit to Framework.** </p>
