@@ -189,6 +189,24 @@ And perhaps, from one airplane to many.
 
 https://github.com/FrSkyRC/ETHOS-Feedback-Community/discussions/6254
 
+## Related Projects & Experimental Components
+
+SpitFW is also the foundation for exploring smaller, independent components that can be useful beyond the cockpit framework itself.
+
+### MultiToggle for ETHOS
+
+**[MultiToggle for ETHOS](https://github.com/Spitfire-developer/MultiToggle-ETHOS)**
+
+A configurable touchscreen control panel providing multiple 2-position and 3-position toggles for ETHOS.
+
+The concept is to use the touchscreen for numerous simple auxiliary functions while keeping the radio's physical switches available for functions requiring immediate tactile control.
+
+Possible applications include aircraft, boats, vehicles, construction machinery and other systems requiring many simple controls such as lights, pumps, sirens, radar and auxiliary equipment.
+
+**More functions do not necessarily have to mean more physical switches.**
+
+
+
 ## License
 This project (compiled release) is distributed under CC BY-NC-ND 4.0.
 See the LICENSE file for details.
