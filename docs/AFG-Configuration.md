@@ -1,4 +1,6 @@
-# AFG – Fuel Gauge Configuration
+# AFG – Analogic Fuel Gauge Configuration <img width="200" height="203" alt="afg 0" src="https://github.com/user-attachments/assets/884c2af4-0aec-455a-a332-f13cbf937b74" />
+
+ Fuel Gauge Configuration
 
 AFG offers two operating modes: throttle-based fuel estimation and telemetry-based indication.
 
