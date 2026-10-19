@@ -7,6 +7,8 @@
 - [User Manual](docs/manual/00_Introduction.md) - Learn how to install, configure, and use SpitFW.
 - [AFG Configuration Guide](docs/AFG-Configuration.md) - Deep dive into the Analog Fuel Gauge.
 
+# <p align="center"> **SPITFW**</p>
+
 ### <p align="center"> **From Instruments to Cockpit.** </p>
 ### <p align="center"> **From Cockpit to Framework.** </p>
 #### <p align="center"> Project Presentation for ETHOS / FrSky Developers and Technical Collaborators </p>
