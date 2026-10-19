@@ -3,6 +3,10 @@
 # <p align="center"> **SPITFW**</p>
  [▶️ Try SpitFW now in your browser](https://ethos-simulator.frsky-rc.com/26.1.2/X20RS_EU?backup=https:%2F%2Fgithub.com%2FSpitfire-developer%2Fspitfw-presentation%2Freleases%2Fdownload%2Fv0.3.0-preview%2FX20RS.zip&reset=all&language=en)
 
+## 📚 Documentation
+- [User Manual](docs/manual/00_Introduction.md) - Learn how to install, configure, and use SpitFW.
+- [AFG Configuration Guide](docs/AFG-Configuration.md) - Deep dive into the Analog Fuel Gauge.
+
 ### <p align="center"> **From Instruments to Cockpit.** </p>
 ### <p align="center"> **From Cockpit to Framework.** </p>
 #### <p align="center"> Project Presentation for ETHOS / FrSky Developers and Technical Collaborators </p>
