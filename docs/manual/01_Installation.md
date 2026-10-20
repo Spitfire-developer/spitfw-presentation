@@ -20,3 +20,5 @@ Your folder structure should look exactly like this:
   ├── modules/    (the instruments)
   ├── PNG/        (instrument images)
   └── main.lua    (the main widget file)
+
+(If you are using the compiled .luac version, you will have main.luac instead of main.lua).
